@@ -1,0 +1,6 @@
+{
+  "name": "CognitiveSaathi",
+  "description": "AI-based cognitive gaming and memory assistance platform for elderly dementia patients and caregivers in North-Eastern India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

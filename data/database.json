@@ -1,0 +1,105 @@
+{
+  "patients": [
+    {
+      "id": "patient-senior-1",
+      "fullName": "Ramesh Sharma",
+      "preferredName": "Ramesh",
+      "username": "ramesh",
+      "password": "password123",
+      "pin": "5678",
+      "patientKey": "PT-RAMESH72",
+      "linkedCaregiverKey": "CG-CARE88",
+      "age": 72,
+      "region": "Guwahati, Assam",
+      "state": "Assam",
+      "preferredLanguage": "en",
+      "caregiverName": "Priya Sharma (Daughter)",
+      "caregiverPhone": "9435012345",
+      "avatarUrl": "",
+      "dailyStreak": 0,
+      "todayCompletedCount": 0,
+      "phone": "9435011111",
+      "hasCaregiver": true
+    },
+    {
+      "id": "patient-independent-2",
+      "fullName": "Biren Kalita",
+      "preferredName": "Biren",
+      "username": "biren",
+      "password": "password123",
+      "pin": "4321",
+      "patientKey": "PT-BIREN76",
+      "age": 76,
+      "region": "Guwahati, Assam",
+      "state": "Assam",
+      "preferredLanguage": "as",
+      "caregiverName": "Self",
+      "caregiverPhone": "9435022222",
+      "avatarUrl": "",
+      "dailyStreak": 0,
+      "todayCompletedCount": 0,
+      "phone": "9435022222",
+      "hasCaregiver": false
+    },
+    {
+      "id": "patient-1789631632856",
+      "fullName": "Anima Devi",
+      "preferredName": "Anima",
+      "username": "anima123",
+      "password": "12345",
+      "pin": "12345",
+      "patientKey": "PT-ANIMA70",
+      "age": 70,
+      "region": "Assam",
+      "state": "Assam",
+      "preferredLanguage": "en",
+      "phone": "9381566141",
+      "hasCaregiver": false,
+      "caregiverName": "Family Caregiver",
+      "caregiverPhone": "",
+      "avatarUrl": "",
+      "dailyStreak": 0,
+      "todayCompletedCount": 0,
+      "linkedCaregiverKey": "CG-HATXFT",
+      "hasCaregiver": true,
+      "caregiverName": "Ali (Daughter)",
+      "caregiverPhone": "9704874836"
+    }
+  ],
+  "caretakers": [
+    {
+      "id": "caretaker-priya",
+      "fullName": "Priya Sharma",
+      "username": "priya",
+      "password": "password123",
+      "phone": "9435012345",
+      "email": "priya.care@cognitivesaathi.org",
+      "relation": "Daughter & Primary Caregiver",
+      "pin": "5678",
+      "caregiverKey": "CG-CARE88",
+      "avatarUrl": "",
+      "assignedPatientIds": [
+        "patient-senior-1"
+      ]
+    },
+    {
+      "id": "caretaker-1789638331063",
+      "fullName": "Ali",
+      "username": "ali123",
+      "password": "1234",
+      "phone": "9704874836",
+      "email": "",
+      "relation": "Daughter",
+      "pin": "1234",
+      "caregiverKey": "CG-HATXFT",
+      "assignedPatientIds": [
+        "patient-1789631632856"
+      ],
+      "avatarUrl": ""
+    }
+  ],
+  "routines": {},
+  "reminders": {},
+  "memories": {},
+  "sessions": {}
+}

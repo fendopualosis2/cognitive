@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "CognitiveSaathi",
+  "short_name": "Saathi",
+  "description": "AI-based cognitive gaming and memory assistance platform for elderly dementia patients and caregivers in North-Eastern India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBF9F5",
+  "theme_color": "#134e48",
+  "categories": ["medical", "health", "lifestyle", "education"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
