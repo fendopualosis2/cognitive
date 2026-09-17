@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#134e48"/>
+  <circle cx="256" cy="256" r="180" fill="#0f766e" opacity="0.4"/>
+  <!-- Warm supportive symbol: gentle blooming lotus / intertwined caring hands of companionship -->
+  <g transform="translate(256, 260) scale(1.15)">
+    <!-- Central warm flame / beacon of memory -->
+    <path d="M0,-110 C25,-60 30,-20 0,30 C-30,-20 -25,-60 0,-110 Z" fill="#fef3c7"/>
+    <!-- Left petal / supportive wing -->
+    <path d="M-15,-30 C-75,-40 -110,10 -80,60 C-45,80 -10,65 0,30 C-5,5 -10,-15 -15,-30 Z" fill="#99f6e4" opacity="0.9"/>
+    <!-- Right petal / supportive wing -->
+    <path d="M15,-30 C75,-40 110,10 80,60 C45,80 10,65 0,30 C5,5 10,-15 15,-30 Z" fill="#99f6e4" opacity="0.9"/>
+    <!-- Gentle lower base cup / caring hands -->
+    <path d="M-90,50 C-60,110 60,110 90,50 C40,80 -40,80 -90,50 Z" fill="#f59e0b"/>
+  </g>
+  <!-- Subtle circular aura -->
+  <circle cx="256" cy="256" r="190" stroke="#fcd34d" stroke-width="6" stroke-dasharray="16 12" fill="none" opacity="0.6"/>
+</svg>
